@@ -133,3 +133,4 @@ a:hover { color: var(--accent-2); }
   .post-grid { grid-template-columns: 1fr; }
   .hero { padding-top: 3rem; }
 }
+.about { margin: 2rem 0; }
